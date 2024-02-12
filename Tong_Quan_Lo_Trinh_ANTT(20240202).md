@@ -1,6 +1,6 @@
 # Tại Sao Một Tổ Chức Cần Có Lộ Trình ATTT (Cybersecurity Roadmap)
 
-## Ý Nghĩa Và Tầm Quan Trọng Của Việc Xây Dựng Một Lộ Trình ATTT (Cybersecurity Roadmap) Trong Tổ Chức
+## Ý Nghĩa Và Tầm Quan Trọng Của Việc Xây Dựng Một Lộ Trình An Toàn Thông  (Cybersecurity Roadmap) Trong Tổ Chức
 
 Một lộ trình an toàn thông tin (ATTT), ngoài việc là một công cụ **đánh giá khả năng hiện tại** và **phân tích khoảng cách**, còn mở rộng để bao gồm việc đánh giá toàn diện các **chính sách**, **quy trình, và năng lực nhân sự**, với **tầm nhìn từ ngắn đến dài hạn** cho việc **tích hợp** và **thực hiện các biện pháp** ATTT. Sự cần thiết trong việc xác định **từng bước lộ trình** cho các giải pháp ATTT được triển khai trong tương lai **và mức độ ưu tiên** của từng giải pháp là hết sức quan trọng cho mỗi tổ chức.
 
@@ -131,19 +131,19 @@ Phần này trình bày về khả năng và mức độ phát triển của h�
 
 ### Các Phát Hiện Chính:
 
--   Các điểm kiểm soát chính và lĩnh vực(domain) bao gồm **People (nhân sự), Process (quy trình) và Technical (kỹ thuật)**.
--   Các vấn đề cụ thể gồm thiếu nhân sự chủ chốt, cần phát triển chính sách và quy trình, và các vấn đề kiểm soát kỹ thuật.
+  - Các điểm kiểm soát chính và lĩnh vực(domain) bao gồm **People (nhân sự), Process (quy trình) và Technical (kỹ thuật)**.
+  - Các vấn đề cụ thể gồm thiếu nhân sự chủ chốt, cần phát triển chính sách và quy trình, và các vấn đề kiểm soát kỹ thuật.
 
 ### Danh Mục Quy Trình ATTT:
 
--   Tổ chức ABCD cần xây dựng một bộ quy trình ATTT toàn diện để cải thiện và tối ưu hóa.
--   Quy trình bao gồm quản lý tường lửa, quản lý người dùng, vá lỗi, kiểm soát truy cập, quản lý mật khẩu, v.v.
+  - Tổ chức ABCD cần xây dựng một bộ quy trình ATTT toàn diện để cải thiện và tối ưu hóa.
+  - Quy trình bao gồm quản lý tường lửa, quản lý người dùng, vá lỗi, kiểm soát truy cập, quản lý mật khẩu, v.v.
 
 ### Khuyến Nghị
 
--   Chuyển từ mạng lưới cơ sở hạ tầng truyền thống sang Trung tâm Dữ liệu Định nghĩa bởi phần mềm (SDN).
--   Thay đổi tư duy chiến lược, áp dụng cách tiếp cận ATTT hiện đại.
--   Xem xét việc tinh giản nhà cung cấp, hướng tới giải pháp tích hợp dễ dàng.
+  - Chuyển từ mạng lưới cơ sở hạ tầng truyền thống sang Trung tâm Dữ liệu Định nghĩa bởi phần mềm (SDN).
+  - Thay đổi tư duy chiến lược, áp dụng cách tiếp cận ATTT hiện đại.
+  - Xem xét việc tinh giản nhà cung cấp, hướng tới giải pháp tích hợp dễ dàng.
 
     Tóm tắt: Tổ chức ABCD cần cải thiện và mở rộng các biện pháp ATTT, từ việc nâng cấp quy trình hiện tại, phát triển mới, đến thay đổi cách tiếp cận ATTT và quản lý nhà cung cấp. Mục tiêu là đảm bảo ATTT trong môi trường ngày càng phức tạp và đa dạng.
 
@@ -161,65 +161,64 @@ Hiện tại, tổ chức ABCD được đánh giá ở mức độ trưởng th
 
 Trong việc cải thiện ATTT, tổ chức ABCD nên tham chiếu đến các khung chuẩn quốc tế như NIST Cybersecurity Framework (CSF) và GSMA FS.31 Baseline Security Controls. Các khung này cung cấp một cơ sở vững chắc để xác định, quản lý và giảm thiểu rủi ro ATTT.
 
--   **NIST CSF**: để xác định và triển khai các chức năng cốt lõi của NIST CSF - **Identify, Protect, Detect, Respond, Recover** - trong các chính sách và quy trình của tổ chức ABCD.
--   **GSMA FS.31**: Đánh giá và triển khai các điều khiển (controls) ATTT cơ bản như được đề xuất trong GSMA FS.31, bao gồm quản lý tài sản, quản lý truy cập, bảo vệ hạ tầng và thông tin, ứng phó trước sự cố, v.v.
+  - **NIST CSF**: để xác định và triển khai các chức năng cốt lõi của NIST CSF - **Identify, Protect, Detect, Respond, Recover** - trong các chính sách và quy trình của tổ chức ABCD.
+  - **GSMA FS.31**: Đánh giá và triển khai các điều khiển (controls) ATTT cơ bản như được đề xuất trong GSMA FS.31, bao gồm quản lý tài sản, quản lý truy cập, bảo vệ hạ tầng và thông tin, ứng phó trước sự cố, v.v.
 
 ### Khuyến Nghị:
 
 #### Tập Trung vào Đào Tạo và Nâng Cao Nhận Thức:
 
--   Cần tổ chức các khóa đào tạo thường xuyên cho nhân viên để nâng cao nhận thức về ATTT và các nguy cơ tiềm ẩn. Điều này giúp giảm thiểu rủi ro từ các yếu tố nội bộ và tăng cường văn hóa ATTT trong tổ chức.
+  - Cần tổ chức các khóa đào tạo thường xuyên cho nhân viên để nâng cao nhận thức về ATTT và các nguy cơ tiềm ẩn. Điều này giúp giảm thiểu rủi ro từ các yếu tố nội bộ và tăng cường văn hóa ATTT trong tổ chức.
 
 #### Xây Dựng và Triển Khai Kế Hoạch Phản Ứng Sự Cố (Incident Response-IR):
 
--   Phát triển một kế hoạch ứng phó sự cố ATTT chi tiết và thực hiện các cuộc diễn tập định kỳ để đảm bảo khả năng ứng phó nhanh và hiệu quả trước các sự cố.
+  - Phát triển một kế hoạch ứng phó sự cố ATTT chi tiết và thực hiện các cuộc diễn tập định kỳ để đảm bảo khả năng ứng phó nhanh và hiệu quả trước các sự cố.
 
 #### Áp Dụng Công Nghệ ATTT Tiên Tiến:
 
--   Đầu tư vào các công nghệ ATTT hiện đại như hệ thống phát hiện và ứng phó sự cố (**SIEM**), quản lý danh tính và truy cập (**IAM**), và bảo mật đám mây để bảo vệ tốt hơn trước các mối đe dọa mới và phức tạp.
+  - Đầu tư vào các công nghệ ATTT hiện đại như hệ thống phát hiện và ứng phó sự cố (**SIEM**), quản lý danh tính và truy cập (**IAM**), và bảo mật đám mây để bảo vệ tốt hơn trước các mối đe dọa mới và phức tạp.
 
 #### Tăng Cường Quản Lý Nhà Cung Cấp và Đối Tác:
 
--   Đánh giá và quản lý rủi ro từ các nhà cung cấp và đối tác, đặc biệt là những người có quyền truy cập vào dữ liệu và hệ thống quan trọng của ngân hàng.
+  - Đánh giá và quản lý rủi ro từ các nhà cung cấp và đối tác, đặc biệt là những người có quyền truy cập vào dữ liệu và hệ thống quan trọng của ngân hàng.
 
 #### Kiểm Toán và Đánh Giá Định Kỳ:
 
--   Tiến hành kiểm toán ATTT định kỳ và đánh giá rủi ro để xác định các điểm yếu và cải thiện liên tục.
+  - Tiến hành kiểm toán ATTT định kỳ và đánh giá rủi ro để xác định các điểm yếu và cải thiện liên tục.
 
 ### Lợi Ích:
 
 #### Giảm Thiểu Rủi Ro và Tăng Cường Bảo Mật:
 
--   Việc thực hiện chương trình ATTT giúp giảm thiểu rủi ro về mất mát hoặc xâm phạm dữ liệu, từ đó bảo vệ uy tín và tài sản của tổ chức.
+  - Việc thực hiện chương trình ATTT giúp giảm thiểu rủi ro về mất mát hoặc xâm phạm dữ liệu, từ đó bảo vệ uy tín và tài sản của tổ chức.
 
 #### Tuân Thủ Pháp Luật và Quy Định:
 
--   Việc cải thiện ATTT đảm bảo tuân thủ các quy định pháp luật liên quan, giúp tránh các hậu quả pháp lý và tài chính.
+  - Việc cải thiện ATTT đảm bảo tuân thủ các quy định pháp luật liên quan, giúp tránh các hậu quả pháp lý và tài chính.
 
 #### Tăng Cường Độ Tin Cậy của Khách Hàng và Đối Tác:
 
--   Một hệ thống ATTT mạnh mẽ tăng cường lòng tin của khách hàng và đối tác, từ đó nâng cao danh tiếng và sự cạnh tranh trên thị trường.
+  - Một hệ thống ATTT mạnh mẽ tăng cường lòng tin của khách hàng và đối tác, từ đó nâng cao danh tiếng và sự cạnh tranh trên thị trường.
 
 #### Chuẩn Bị Sẵn Sàng Phản Ứng Trước Sự Cố:
 
--   Có khả năng ứng phó nhanh chóng và hiệu quả trước các sự cố ATTT, giảm thiểu thiệt hại và thời gian ngưng trệ.
+  - Có khả năng ứng phó nhanh chóng và hiệu quả trước các sự cố ATTT, giảm thiểu thiệt hại và thời gian ngưng trệ.
 
 #### Tối Ưu Hóa Nguy Cơ và Quản Lý Chi Phí:
 
--   Việc đầu tư vào ATTT giúp tối ưu hóa nguy cơ và quản lý chi phí lâu dài, nhờ việc ngăn chặn sự cố và giảm thiểu thiệt hại tiềm ẩn.
+  - Việc đầu tư vào ATTT giúp tối ưu hóa nguy cơ và quản lý chi phí lâu dài, nhờ việc ngăn chặn sự cố và giảm thiểu thiệt hại tiềm ẩn.
 
     Tổng hợp lại, lộ trình ATTT của Tổ chức ABCD nên tập trung vào việc **cải thiện quy trình** và **thực hành ATTT** dựa trên các khuyến nghị từ XYZ-Consulting và sự tham chiếu đến các khung chuẩn quốc tế như NIST CSF và GSMA FS.31. Điều này sẽ giúp tăng cường mức độ trưởng thành và khả năng ứng phó trước các mối đe dọa ATTT. Kết hợp các khuyến nghị này với lộ trình đã đề ra, tổ chức ABCD có thể xây dựng một chương trình ATTT toàn diện, đáp ứng nhu cầu kinh doanh và bảo vệ tốt nhất có thể trước các mối đe dọa ATTT ngày càng tinh vi và phức tạp.
 
 ## Nguồn tham khảo
 
--   Buildings Cybersecurity Capability Maturity Model (B-C2M2) - EVALUATION TOOLKIT: <https://bc2m2.pnnl.gov/>
--   Cyber Security Incident Response Maturity Assessment: <https://www.crest-approved.org/buying-building-cyber-services/cyber-security-incident-response-maturity-assessment/>
--   FFIEC Cybersecurity Maturity assessment Tool: <https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_May_2017_Cybersecurity_Maturity.pdf>
--   ARMA International's Information Governance Maturity Model: <https://assets.corporatecompliance.org/Portals/1/PDF/Resources/past_handouts/CEI/2012/701_RecordsandInformationManagementManagingtheRealRisksFacingYourOrganization_REVISED_Handout.pdf>
--   Cybersecurity Capability Maturity Model (C2M2): <https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2>
--   Microsoft Security Operations Self-Assessment Tool: <https://www.microsoft.com/en-us/security/business/threat-protection/security-operations-assessment?activetab=solution-wizard%3aprimaryr2>
--   The Community Cyber Security Maturity Model: <https://cias.utsa.edu/research/maturity-model/>
--   
+  - Buildings Cybersecurity Capability Maturity Model (B-C2M2) - EVALUATION TOOLKIT: <https://bc2m2.pnnl.gov/>
+  - Cyber Security Incident Response Maturity Assessment: <https://www.crest-approved.org/buying-building-cyber-services/cyber-security-incident-response-maturity-assessment/>
+  - FFIEC Cybersecurity Maturity assessment Tool: <https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_May_2017_Cybersecurity_Maturity.pdf>
+  - ARMA International's Information Governance Maturity Model: <https://assets.corporatecompliance.org/Portals/1/PDF/Resources/past_handouts/CEI/2012/701_RecordsandInformationManagementManagingtheRealRisksFacingYourOrganization_REVISED_Handout.pdf>
+  - Cybersecurity Capability Maturity Model (C2M2): <https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2>
+  - Microsoft Security Operations Self-Assessment Tool: <https://www.microsoft.com/en-us/security/business/threat-protection/security-operations-assessment?activetab=solution-wizard%3aprimaryr2>
+  - The Community Cyber Security Maturity Model: <https://cias.utsa.edu/research/maturity-model/>
 
 # NIST Cybersecurity Framework Maturity Model là gì
 
@@ -235,16 +234,16 @@ Mỗi lĩnh vực bao gồm một tập hợp có cấu trúc các thực tiễn
 
 **Các lĩnh vực được liệt kê trong C2M2 bao gồm:**
 
--   Quản lý Tài sản, Thay đổi và Cấu hình (**ASSET**)
--   Quản lý Mối đe dọa và Lỗ hổng (**THREAT**)
--   Quản lý Rủi ro (**RISK)**
--   Quản lý Danh tính và Truy cập (**ACCESS**)
--   Nhận thức về Tình hình (**SITUATION**)
--   Phản ứng Sự kiện và Sự cố, Tiếp tục Hoạt động (**RESPONSE**)
--   Quản lý Rủi ro Bên thứ ba (**THIRD-PARTIES**)
--   Quản lý Lực lượng Lao động (**WORKFORCE**)
--   Kiến trúc ATTT (**ARCHITECTURE**)
--   Quản lý Chương trình ATTT (**PROGRAM**)
+  - Quản lý Tài sản, Thay đổi và Cấu hình (**ASSET**)
+  - Quản lý Mối đe dọa và Lỗ hổng (**THREAT**)
+  - Quản lý Rủi ro (**RISK)**
+  - Quản lý Danh tính và Truy cập (**ACCESS**)
+  - Nhận thức về Tình hình (**SITUATION**)
+  - Phản ứng Sự kiện và Sự cố, Tiếp tục Hoạt động (**RESPONSE**)
+  - Quản lý Rủi ro Bên thứ ba (**THIRD-PARTIES**)
+  - Quản lý Lực lượng Lao động (**WORKFORCE**)
+  - Kiến trúc ATTT (**ARCHITECTURE**)
+  - Quản lý Chương trình ATTT (**PROGRAM**)
 
     Các lĩnh vực này cung cấp một khung làm việc toàn diện để đánh giá và cải thiện sự trưởng thành ATTT, giúp tổ chức tăng cường khả năng phòng vệ trước các mối đe dọa mạng và tăng cường sự an toàn của thông tin. Mỗi lĩnh vực chứa đựng các bước cụ thể mà tổ chức nên theo đuổi để phát triển và mạnh mẽ hơn trong lĩnh vực đó.
 
@@ -254,58 +253,58 @@ Mỗi lĩnh vực bao gồm một tập hợp có cấu trúc các thực tiễn
 
 ## Mục Tiêu (Objectives)
 
--   Các thực tiễn trong mỗi lĩnh vực được tổ chức thành mục tiêu có thể đạt được thông qua việc triển khai các thực tiễn trong lĩnh vực đó. Ví dụ, lĩnh vực Quản lý Rủi ro bao gồm năm mục tiêu như thiết lập và duy trì chiến lược cũng như chương trình quản lý rủi ro mạng, xác định rủi ro mạng, phân tích rủi ro mạng, ứng phó với rủi ro mạng và các hoạt động quản lý.
+  - Các thực tiễn trong mỗi lĩnh vực được tổ chức thành mục tiêu có thể đạt được thông qua việc triển khai các thực tiễn trong lĩnh vực đó. Ví dụ, lĩnh vực Quản lý Rủi ro bao gồm năm mục tiêu như thiết lập và duy trì chiến lược cũng như chương trình quản lý rủi ro mạng, xác định rủi ro mạng, phân tích rủi ro mạng, ứng phó với rủi ro mạng và các hoạt động quản lý.
 
 ## Thực Tiễn (Practices)
 
--   Đây là những thành phần cơ bản nhất của C2M2, mỗi thực tiễn là một phát biểu ngắn gọn mô tả một hoạt động ATTT mà tổ chức có thể thực hiện. Các thực tiễn trong mỗi lĩnh vực được tổ chức để phát triển dọc theo một thang đo trưởng thành.
+  - Đây là những thành phần cơ bản nhất của C2M2, mỗi thực tiễn là một phát biểu ngắn gọn mô tả một hoạt động ATTT mà tổ chức có thể thực hiện. Các thực tiễn trong mỗi lĩnh vực được tổ chức để phát triển dọc theo một thang đo trưởng thành.
 
 ## Cấp Độ Chỉ Thị Sự Trưởng Thành (Maturity Indicator Levels - MILs)
 
--   Để đo lường tiến trình, C2M2 sử dụng một thang đo các cấp độ chỉ thị trưởng thành, mỗi cấp độ đại diện cho các thuộc tính trưởng thành như sau:
--   **MIL1 (Initiated):** Các thực tiễn ban đầu được thực hiện nhưng có thể không theo quy trình.
--   **MIL2 (Performed):** Các thực tiễn được tài liệu hóa, có nguồn lực đầy đủ để hỗ trợ các hoạt động trong lĩnh vực.
--   **MIL3 (Managed):** Các hoạt động được hướng dẫn bởi chính sách, nhân sự có kỹ năng và kiến thức cần thiết, và sự quản lý trách nhiệm rõ ràng. Hiệu quả của các hoạt động được đánh giá và theo dõi.
+  - Để đo lường tiến trình, C2M2 sử dụng một thang đo các cấp độ chỉ thị trưởng thành, mỗi cấp độ đại diện cho các thuộc tính trưởng thành như sau:
+  - **MIL1 (Initiated):** Các thực tiễn ban đầu được thực hiện nhưng có thể không theo quy trình.
+  - **MIL2 (Performed):** Các thực tiễn được tài liệu hóa, có nguồn lực đầy đủ để hỗ trợ các hoạt động trong lĩnh vực.
+  - **MIL3 (Managed):** Các hoạt động được hướng dẫn bởi chính sách, nhân sự có kỹ năng và kiến thức cần thiết, và sự quản lý trách nhiệm rõ ràng. Hiệu quả của các hoạt động được đánh giá và theo dõi.
 
 ## Lý Do Chọn NIST Cybersecurity Framework Maturity Model:
 
 ### Tương Thích Trực Tiếp với NIST CSF:
 
--   Mô hình trưởng thành này được xây dựng để hoạt động cùng với NIST CSF, giúp đánh giá hiệu quả các chức năng cốt lõi: Identify, Protect, Detect, Respond, và Recover.
+  - Mô hình trưởng thành này được xây dựng để hoạt động cùng với NIST CSF, giúp đánh giá hiệu quả các chức năng cốt lõi: Identify, Protect, Detect, Respond, và Recover.
 
 ### Phản Ánh Các Phần Tự Đánh Giá:
 
--   Mô hình cho phép tổ chức tự đánh giá mức độ trưởng thành của họ theo từng chức năng cốt lõi, giúp xác định cụ thể những khu vực cần cải thiện.
+  - Mô hình cho phép tổ chức tự đánh giá mức độ trưởng thành của họ theo từng chức năng cốt lõi, giúp xác định cụ thể những khu vực cần cải thiện.
 
 ### Cải Thiện Liên Tục và Định Hướng Chiến Lược:
 
--   Mô hình này hỗ trợ việc lập kế hoạch chiến lược và thực hiện cải thiện liên tục, đồng thời giúp phù hợp hóa ATTT với mục tiêu kinh doanh của tổ chức.
+  - Mô hình này hỗ trợ việc lập kế hoạch chiến lược và thực hiện cải thiện liên tục, đồng thời giúp phù hợp hóa ATTT với mục tiêu kinh doanh của tổ chức.
 
 ### Đa Dạng Hóa Cấp Độ Đánh Giá:
 
--   Cung cấp các cấp độ đánh giá từ cơ bản đến nâng cao, giúp các tổ chức ở mọi quy mô và mức độ phức tạp đều có thể sử dụng.
+  - Cung cấp các cấp độ đánh giá từ cơ bản đến nâng cao, giúp các tổ chức ở mọi quy mô và mức độ phức tạp đều có thể sử dụng.
 
 ## Cách Thực Hiện:
 
 ### Đánh Giá Tình Trạng Hiện Tại:
 
--   Xác định mức độ hiện tại của tổ chức trong từng chức năng cốt lõi của NIST CSF.
+  - Xác định mức độ hiện tại của tổ chức trong từng chức năng cốt lõi của NIST CSF.
 
 ### Xác Định Mục Tiêu Mức Độ Trưởng Thành:
 
--   Dựa trên mục tiêu ATTT và nhu cầu kinh doanh, xác định mức độ trưởng thành mong muốn cho mỗi chức năng.
+  - Dựa trên mục tiêu ATTT và nhu cầu kinh doanh, xác định mức độ trưởng thành mong muốn cho mỗi chức năng.
 
 ### Phát Triển Kế Hoạch Hành Động:
 
--   Lập kế hoạch cải thiện để nâng cao mức độ trưởng thành từ tình trạng hiện tại đến mục tiêu đặt ra.
+  - Lập kế hoạch cải thiện để nâng cao mức độ trưởng thành từ tình trạng hiện tại đến mục tiêu đặt ra.
 
 ### Thực Hiện và Theo Dõi Tiến Trình:
 
--   Triển khai các biện pháp cải thiện và theo dõi tiến trình, đảm bảo rằng các mục tiêu ATTT đang được đáp ứng.
+  - Triển khai các biện pháp cải thiện và theo dõi tiến trình, đảm bảo rằng các mục tiêu ATTT đang được đáp ứng.
 
 ### Đánh Giá Định Kỳ và Điều Chỉnh Kế Hoạch:
 
--   Thực hiện đánh giá định kỳ để xem xét tiến độ và điều chỉnh kế hoạch cải thiện nếu cần.
+  - Thực hiện đánh giá định kỳ để xem xét tiến độ và điều chỉnh kế hoạch cải thiện nếu cần.
 
     Sử dụng **NIST Cybersecurity Framework Maturity Model** giúp tổ chức có một cách tiếp cận có hệ thống và chiến lược trong việc cải thiện ATTT, đồng thời đảm bảo rằng các biện pháp ATTT được thiết lập phù hợp với mục tiêu và nguy cơ cụ thể của tổ chức.
 
@@ -318,4 +317,6 @@ Web: <https://www.soc-cmm.com/products/soc-cmm/>; <https://www.nccoe.nist.gov/ne
 [https://sprinto.com/blog/nist-csf-maturity-levels/\#:\~:text=What%20is%20the%20NIST%20cybersecurity,NIST%20and%20mitigate%20cyber%20risks](https://sprinto.com/blog/nist-csf-maturity-levels/#:~:text=What%20is%20the%20NIST%20cybersecurity,NIST%20and%20mitigate%20cyber%20risks).;
 
 
+# Phương Pháp Luận Thiết Kế Chương Trình ATTT
+Thiết kế chương trình ATTT thành sáu giai đoạn như sau:
 
